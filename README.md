@@ -1,4 +1,4 @@
-# QUANTA EXECUTE COMMANDS
+# QUANTA RUN COMMANDS
 
 A simple application to execute commands on quanta switchs automatically 
 
